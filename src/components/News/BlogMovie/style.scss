@@ -1,0 +1,22 @@
+.image-content{
+    border-radius: 5px;
+}
+.blog-movie-item{
+    background-color: rgb(7,24,41);
+}
+.item-infor{
+    margin: 20px;
+
+}
+.item-infor .item-title{
+    color:#febb00;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.item-infor .item-description{
+    color:lightgray;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}

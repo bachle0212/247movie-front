@@ -1,0 +1,12 @@
+.item-title{
+    color:#febb00;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.item-description{
+    color:lightgray;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+}

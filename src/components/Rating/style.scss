@@ -1,0 +1,16 @@
+.star {
+  font-size: 28px;
+  margin: 2px;
+
+  &-off {
+    color: #e5e5e5;
+  }
+
+  &-rated {
+    color: #ff8040;
+  }
+
+  &-on {
+    color: #fcff40;
+  }
+}
